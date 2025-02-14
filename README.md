@@ -51,6 +51,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mandar77/leetcode_mandar/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mandar77/leetcode_mandar/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mandar77/leetcode_mandar/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2181-smallest-index-with-equal-value](https://github.com/Mandar77/leetcode_mandar/tree/master/2181-smallest-index-with-equal-value) |
 ## Two Pointers
 |  |
 | ------- |
