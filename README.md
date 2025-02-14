@@ -14,6 +14,7 @@
 | [0069-sqrtx](https://github.com/Mandar77/leetcode_mandar/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mandar77/leetcode_mandar/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [2181-smallest-index-with-equal-value](https://github.com/Mandar77/leetcode_mandar/tree/master/2181-smallest-index-with-equal-value) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mandar77/leetcode_mandar/tree/master/2331-intersection-of-multiple-arrays) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Mandar77/leetcode_mandar/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mandar77/leetcode_mandar/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
