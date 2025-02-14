@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Mandar77/leetcode_mandar/tree/master/0190-reverse-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Mandar77/leetcode_mandar/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
