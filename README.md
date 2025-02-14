@@ -27,6 +27,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mandar77/leetcode_mandar/tree/master/2331-intersection-of-multiple-arrays) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mandar77/leetcode_mandar/tree/master/0014-longest-common-prefix) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mandar77/leetcode_mandar/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Mandar77/leetcode_mandar/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mandar77/leetcode_mandar/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,11 +103,13 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Mandar77/leetcode_mandar/tree/master/0190-reverse-bits) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mandar77/leetcode_mandar/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Rolling Hash
 |  |
 | ------- |
