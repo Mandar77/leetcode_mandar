@@ -44,12 +44,14 @@
 | [0118-pascals-triangle](https://github.com/Mandar77/leetcode_mandar/tree/master/0118-pascals-triangle) |
 | [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mandar77/leetcode_mandar/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +100,12 @@
 |  |
 | ------- |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
+## Greedy
+|  |
+| ------- |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+## String Matching
+|  |
+| ------- |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 <!---LeetCode Topics End-->
