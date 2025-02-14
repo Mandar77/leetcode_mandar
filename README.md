@@ -42,6 +42,7 @@
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/Mandar77/leetcode_mandar/tree/master/2881-split-strings-by-separator) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mandar77/leetcode_mandar/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Trie
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Mandar77/leetcode_mandar/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mandar77/leetcode_mandar/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Mandar77/leetcode_mandar/tree/master/2881-split-strings-by-separator) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mandar77/leetcode_mandar/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
 | ------- |
