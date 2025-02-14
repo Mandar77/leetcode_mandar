@@ -27,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/Mandar77/leetcode_mandar/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mandar77/leetcode_mandar/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Mandar77/leetcode_mandar/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/Mandar77/leetcode_mandar/tree/master/0091-decode-ways) |
 ## Trie
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Mandar77/leetcode_mandar/tree/master/0091-decode-ways) |
 ## Memoization
 |  |
 | ------- |
