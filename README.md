@@ -32,6 +32,7 @@
 | [0091-decode-ways](https://github.com/Mandar77/leetcode_mandar/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
 | [1532-reformat-the-string](https://github.com/Mandar77/leetcode_mandar/tree/master/1532-reformat-the-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mandar77/leetcode_mandar/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mandar77/leetcode_mandar/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mandar77/leetcode_mandar/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Mandar77/leetcode_mandar/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
 | ------- |
