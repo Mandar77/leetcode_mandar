@@ -31,6 +31,7 @@
 | [0058-length-of-last-word](https://github.com/Mandar77/leetcode_mandar/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Mandar77/leetcode_mandar/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
+| [1532-reformat-the-string](https://github.com/Mandar77/leetcode_mandar/tree/master/1532-reformat-the-string) |
 ## Trie
 |  |
 | ------- |
