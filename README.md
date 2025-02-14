@@ -33,6 +33,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
 | [1532-reformat-the-string](https://github.com/Mandar77/leetcode_mandar/tree/master/1532-reformat-the-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mandar77/leetcode_mandar/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2154-minimum-moves-to-convert-string) |
 ## Trie
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | ------- |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mandar77/leetcode_mandar/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2154-minimum-moves-to-convert-string) |
 ## String Matching
 |  |
 | ------- |
