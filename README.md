@@ -40,6 +40,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2154-minimum-moves-to-convert-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Mandar77/leetcode_mandar/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Trie
 |  |
 | ------- |
