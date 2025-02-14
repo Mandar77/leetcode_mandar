@@ -40,6 +40,7 @@
 | [0015-3sum](https://github.com/Mandar77/leetcode_mandar/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mandar77/leetcode_mandar/tree/master/0118-pascals-triangle) |
+| [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mandar77/leetcode_mandar/tree/master/0015-3sum) |
+| [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Mandar77/leetcode_mandar/tree/master/0190-reverse-bits) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
