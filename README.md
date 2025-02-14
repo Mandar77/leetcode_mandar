@@ -56,6 +56,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mandar77/leetcode_mandar/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2181-smallest-index-with-equal-value](https://github.com/Mandar77/leetcode_mandar/tree/master/2181-smallest-index-with-equal-value) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mandar77/leetcode_mandar/tree/master/2331-intersection-of-multiple-arrays) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Mandar77/leetcode_mandar/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mandar77/leetcode_mandar/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Matrix
+|  |
+| ------- |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Mandar77/leetcode_mandar/tree/master/2398-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
