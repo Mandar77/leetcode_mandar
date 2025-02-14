@@ -15,6 +15,7 @@
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mandar77/leetcode_mandar/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2645-pass-the-pillow](https://github.com/Mandar77/leetcode_mandar/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | ------- |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Mandar77/leetcode_mandar/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2645-pass-the-pillow](https://github.com/Mandar77/leetcode_mandar/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
 | ------- |
