@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/Mandar77/leetcode_mandar/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mandar77/leetcode_mandar/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
+| [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
 ## Recursion
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
 <!---LeetCode Topics End-->
