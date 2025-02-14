@@ -12,6 +12,7 @@
 | [0009-palindrome-number](https://github.com/Mandar77/leetcode_mandar/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mandar77/leetcode_mandar/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mandar77/leetcode_mandar/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mandar77/leetcode_mandar/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
