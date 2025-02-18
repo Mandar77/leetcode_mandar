@@ -13,6 +13,7 @@
 | [0013-roman-to-integer](https://github.com/Mandar77/leetcode_mandar/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mandar77/leetcode_mandar/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Mandar77/leetcode_mandar/tree/master/0279-perfect-squares) |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mandar77/leetcode_mandar/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Mandar77/leetcode_mandar/tree/master/2645-pass-the-pillow) |
@@ -95,6 +96,7 @@
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Mandar77/leetcode_mandar/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Mandar77/leetcode_mandar/tree/master/0118-pascals-triangle) |
+| [0279-perfect-squares](https://github.com/Mandar77/leetcode_mandar/tree/master/0279-perfect-squares) |
 ## Memoization
 |  |
 | ------- |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Mandar77/leetcode_mandar/tree/master/2398-check-if-matrix-is-x-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Mandar77/leetcode_mandar/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
