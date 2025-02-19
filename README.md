@@ -71,6 +71,7 @@
 | [2881-split-strings-by-separator](https://github.com/Mandar77/leetcode_mandar/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mandar77/leetcode_mandar/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Mandar77/leetcode_mandar/tree/master/0190-reverse-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Sliding Window
 |  |
 | ------- |
