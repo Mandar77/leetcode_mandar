@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mandar77/leetcode_mandar/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mandar77/leetcode_mandar/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mandar77/leetcode_mandar/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -83,6 +84,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Mandar77/leetcode_mandar/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mandar77/leetcode_mandar/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Sorting
