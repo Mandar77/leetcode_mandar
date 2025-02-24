@@ -14,6 +14,7 @@
 | [0069-sqrtx](https://github.com/Mandar77/leetcode_mandar/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Mandar77/leetcode_mandar/tree/master/0279-perfect-squares) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mandar77/leetcode_mandar/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Mandar77/leetcode_mandar/tree/master/2645-pass-the-pillow) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mandar77/leetcode_mandar/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mandar77/leetcode_mandar/tree/master/2331-intersection-of-multiple-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Mandar77/leetcode_mandar/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -60,6 +62,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mandar77/leetcode_mandar/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Mandar77/leetcode_mandar/tree/master/0118-pascals-triangle) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -134,6 +137,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mandar77/leetcode_mandar/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mandar77/leetcode_mandar/tree/master/2331-intersection-of-multiple-arrays) |
@@ -170,4 +174,8 @@
 |  |
 | ------- |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Mandar77/leetcode_mandar/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+## Number Theory
+|  |
+| ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
