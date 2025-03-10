@@ -15,6 +15,7 @@
 | [0013-roman-to-integer](https://github.com/Mandar77/leetcode_mandar/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Mandar77/leetcode_mandar/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Mandar77/leetcode_mandar/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Mandar77/leetcode_mandar/tree/master/0279-perfect-squares) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mandar77/leetcode_mandar/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Mandar77/leetcode_mandar/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Mandar77/leetcode_mandar/tree/master/0202-happy-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mandar77/leetcode_mandar/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mandar77/leetcode_mandar/tree/master/2331-intersection-of-multiple-arrays) |
@@ -85,6 +87,7 @@
 | [0015-3sum](https://github.com/Mandar77/leetcode_mandar/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mandar77/leetcode_mandar/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0202-happy-number](https://github.com/Mandar77/leetcode_mandar/tree/master/0202-happy-number) |
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Sorting
