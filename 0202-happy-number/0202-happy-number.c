@@ -9,7 +9,7 @@ int getSumOfSquares(int n) {
 }
 
 bool isHappy(int n) {
-    for (int i = 0; i < 100; i++) {  
+    for (int i = 0; i < 100; i++) {  // Arbitrary upper limit to avoid infinite loops
         if (n == 1) return true;
         n = getSumOfSquares(n);
     }
