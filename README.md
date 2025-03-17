@@ -65,6 +65,7 @@
 | [0015-3sum](https://github.com/Mandar77/leetcode_mandar/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mandar77/leetcode_mandar/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mandar77/leetcode_mandar/tree/master/0118-pascals-triangle) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
@@ -87,6 +88,7 @@
 | [0015-3sum](https://github.com/Mandar77/leetcode_mandar/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mandar77/leetcode_mandar/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Mandar77/leetcode_mandar/tree/master/0202-happy-number) |
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mandar77/leetcode_mandar/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0088-merge-sorted-array) |
 | [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mandar77/leetcode_mandar/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mandar77/leetcode_mandar/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
