@@ -67,6 +67,7 @@
 | [0035-search-insert-position](https://github.com/Mandar77/leetcode_mandar/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Mandar77/leetcode_mandar/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mandar77/leetcode_mandar/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandar77/leetcode_mandar/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-height-checker](https://github.com/Mandar77/leetcode_mandar/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
@@ -113,6 +114,7 @@
 | [0070-climbing-stairs](https://github.com/Mandar77/leetcode_mandar/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Mandar77/leetcode_mandar/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Mandar77/leetcode_mandar/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandar77/leetcode_mandar/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Mandar77/leetcode_mandar/tree/master/0279-perfect-squares) |
 ## Memoization
 |  |
