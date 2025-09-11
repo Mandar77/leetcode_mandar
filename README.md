@@ -19,6 +19,7 @@
 | [0279-perfect-squares](https://github.com/Mandar77/leetcode_mandar/tree/master/0279-perfect-squares) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1195-distribute-candies-to-people](https://github.com/Mandar77/leetcode_mandar/tree/master/1195-distribute-candies-to-people) |
+| [2481-strictly-palindromic-number](https://github.com/Mandar77/leetcode_mandar/tree/master/2481-strictly-palindromic-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mandar77/leetcode_mandar/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/Mandar77/leetcode_mandar/tree/master/2645-pass-the-pillow) |
 ## Recursion
@@ -93,6 +94,7 @@
 | [0202-happy-number](https://github.com/Mandar77/leetcode_mandar/tree/master/0202-happy-number) |
 | [1168-duplicate-zeros](https://github.com/Mandar77/leetcode_mandar/tree/master/1168-duplicate-zeros) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Mandar77/leetcode_mandar/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [2481-strictly-palindromic-number](https://github.com/Mandar77/leetcode_mandar/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mandar77/leetcode_mandar/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Mandar77/leetcode_mandar/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
